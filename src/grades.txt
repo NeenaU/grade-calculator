@@ -1,0 +1,4 @@
+Maths,6,67
+English,6,62
+Science,6,85
+Spanish,3,74
